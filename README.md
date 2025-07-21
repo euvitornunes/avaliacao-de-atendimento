@@ -15,6 +15,8 @@ Sistema web desenvolvido em PHP para avaliação de atendimento de funcionários
 > Login: **farmacia@gmail.com**  
 > Senha: **farmacia123**
 
+VIDEO DO SISTEMA >>> https://www.youtube.com/watch?v=QL-4fnFfYao <<<
+
 ---
 
 ## 📁 Estrutura do Projeto
